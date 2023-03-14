@@ -1,0 +1,28 @@
+{
+  "name": "mern-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasanelmestrah/mern-back.git"
+  },
+  "author": "hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasanelmestrah/mern-back/issues"
+  },
+  "homepage": "https://github.com/Hasanelmestrah/mern-back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
